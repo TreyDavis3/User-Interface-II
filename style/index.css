@@ -156,3 +156,11 @@ blockquote, q {
         text-align: center;
         font-size: 8rem;
     }
+
+    @media (max-width: 800px){
+
+    }
+
+    @media (max-width: 500px){
+        
+    }
