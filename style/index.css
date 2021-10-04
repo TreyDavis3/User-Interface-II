@@ -69,9 +69,11 @@ blockquote, q {
         align-items: center;
         display: flex;
         justify-content: flex-end; 
+        margin-right: 4%;
     }
     h1{
         font-size: 6rem;
+        margin-left: 4%;
     }
 
     /* main picture formatting */
